@@ -1,0 +1,1 @@
+cmd_/home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/modules.order := {   echo /home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/cpu_201403904.ko;   echo /home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/memo_201403904.ko; :; } | awk '!x[$$0]++' - > /home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/modules.order

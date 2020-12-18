@@ -1,0 +1,1 @@
+cmd_/home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/memo_201403904.mod := { echo  /home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/memo_201403904.o; echo; } > /home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/memo_201403904.mod

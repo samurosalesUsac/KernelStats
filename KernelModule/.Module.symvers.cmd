@@ -1,0 +1,1 @@
+cmd_/home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/Module.symvers := sed 's/ko$$/o/' /home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/modules.order | scripts/mod/modpost  -a   -o /home/samuelrosales/Documents/sopes1/KernelStats/KernelModule/Module.symvers -e -i Module.symvers  -N -T -
